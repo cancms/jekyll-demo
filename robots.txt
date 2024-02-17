@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://cancms.github.io/jekyll-demo/sitemap.xml
+Sitemap: https://cancms.github.io/jekyll-demo/jekyll-demo//sitemap.xml
